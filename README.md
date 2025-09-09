@@ -48,5 +48,7 @@ Humanitarian tech projects combining blockchain, AI, and decentralized systems
 
 
 Contact
+digitizetheplanet@gmail.com 
+
 
 Open to freelance, research, and collaboration opportunities
