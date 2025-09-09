@@ -47,7 +47,7 @@ Web3 and Web5 infrastructure tools (SDKs, APIs, middleware)
 Humanitarian tech projects combining blockchain, AI, and decentralized systems
 
 
-Contact
+Contact.
 digitizetheplanet@gmail.com 
 
 
